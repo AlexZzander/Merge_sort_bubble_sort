@@ -1,1 +1,1 @@
-# Mere_sort_bubble_sort
+# My implementation of bubble and merge sort algorithms
